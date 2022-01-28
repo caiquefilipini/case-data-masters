@@ -1,0 +1,41 @@
+
+
+
+1. Entendimento do problema
+	- Contexto
+	- Critério de Sucesso
+	- Definição do Público Alvo
+	- Definição da Target
+
+2. Levantamento dos Dados
+
+3. Análise inicial dos dados
+	- Carregamento
+	- Shape
+	- Tipos dos dados
+	- Missings
+	- Balanceamento da Target
+
+4. Tratamento e Preparação dos dados
+	- Separar em treino e teste
+
+
+
+# TAREFAS PARA 28/01/2022 #
+
+- Questão B OK
+- Questão C
+- Arrumar / Finalizar Comentários da Questão A OK
+- Arrumar Sumário OK
+	- Colocar todos os items no Sumário OK
+	- Colocar números correspondentes nas respectivas sessões OK
+- Finalizar backlog de melhorias da V2 (Questão A)
+- Revisar todo o projeto
+	- Questão A OK
+	- Questão B OK
+	- Questão C
+- Salvar em diversos formatos
+	- HTML
+	- PDF
+	- Subir no meu GitHub
+- Submeter o projeto na Academia Santander
